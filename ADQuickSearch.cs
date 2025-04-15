@@ -1,4 +1,8 @@
-﻿// ADQuickSearch -run -name: -user -brief/full
+﻿// Copyright (C) 2025 Akil Woolfolk Sr. 
+// All Rights Reserved
+// All the changes released under the MIT license as the original code.
+
+// ADQuickSearch -run -name: -user -brief/full
 // ADQuickSearch -run -name: -group -brief/full
 // ADQuickSearch -run -name: -computer -brief/full
 
