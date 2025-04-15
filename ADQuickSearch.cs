@@ -35,7 +35,7 @@ namespace ADQuickSearch
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("ADQuickSearch v1.0 (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("ADQuickSearch v1.0");
             Console.WriteLine();
             Console.WriteLine("Description: Find user accounts/groups/computers");
             Console.WriteLine();
