@@ -1,9 +1,4 @@
-﻿//****************************************
-// Copyright (c) Thinkability Group 2011
-// SystemsAdminPro.com
-//****************************************
-
-// ADQuickSearch -run -name: -user -brief/full
+﻿// ADQuickSearch -run -name: -user -brief/full
 // ADQuickSearch -run -name: -group -brief/full
 // ADQuickSearch -run -name: -computer -brief/full
 
@@ -17,7 +12,7 @@ using System.DirectoryServices.AccountManagement;
 using System.DirectoryServices.ActiveDirectory;
 using Microsoft.Win32;
 using System.Reflection;
-using SystemsAdminPro.Utility;
+//check against original for using statement that was removed
 
 namespace ADQuickSearch
 {
